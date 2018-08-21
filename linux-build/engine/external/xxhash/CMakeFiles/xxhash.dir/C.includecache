@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gollumsmate/CPPprojekte/Amaze/cocos2d/external/xxhash/xxhash.c
+xxhash.h
+/home/gollumsmate/CPPprojekte/Amaze/cocos2d/external/xxhash/xxhash.h
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
+/home/gollumsmate/CPPprojekte/Amaze/cocos2d/external/xxhash/xxhash.h
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gollumsmate/CPPprojekte/Amaze/cocos2d/external/recast/fastlz/fastlz.c
+fastlz.c
+/home/gollumsmate/CPPprojekte/Amaze/cocos2d/external/recast/fastlz/fastlz.c
+fastlz.c
+/home/gollumsmate/CPPprojekte/Amaze/cocos2d/external/recast/fastlz/fastlz.c
+
